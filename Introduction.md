@@ -19,10 +19,10 @@ can’t justify the investment in that very high level of security with an ROI. 
 such, Microsoft is introducing a new taxonomy for Security Configurations for
 Windows 10: The SECCON Baselines.
 
-The SECCON Baselines organizes devices into one of 5 distinct security
+The SECCON Baselines organize devices into one of 5 distinct security
 configurations:
 
-![SECON Framework](images\seccon-framework.png)
+![SECON Framework](seccon-framework.png)
 
 The SECCON Baselines divide configuration into Productivity Devices and
 Privileged Access Workstations. This document will focus on Productivity Devices
@@ -38,17 +38,17 @@ increasing the protection based on both threat environment and risk appetite.
 Security Control Classification
 -------------------------------
 
-This document groups recommendations into 3 categories:
+The recommendations are grouped into three categories:
 
-![Security Control Classifications](images\security-control-classification.png)
+![Security Control Classifications](security-control-classification.png)
 
 
 Security Control Deployment Methodologies
 -----------------------------------------
 
 The way Microsoft recommends implementing these controls depends on the
-auditability of the control– there are two primary methodologies:
+auditability of the control–there are two primary methodologies:
 
-![Security Control Deployment methodologies](images\security-control-deployment-methodologies.png) 
+![Security Control Deployment methodologies](security-control-deployment-methodologies.png) 
 
 
