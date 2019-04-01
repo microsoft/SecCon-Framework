@@ -1,9 +1,9 @@
-The controls enforced in SECCON 4 implement a more sophisticated security
-configuration and controls. While they may have a slightly higher impact to
+The controls enforced in SECCON 4 implement more controls and a more sophisticated security
+configuration than SECCON 5. While they may have a slightly higher impact to
 users or to applications, they enforce a level of security more commensurate
 with the risks facing users with access to sensitive information. Microsoft
 recommends using the Audit/Enforce methodology for controls with an Audit mode,
-and the Rings methodology for those that do not, with a moderate timeline that
+and the rings methodology for those that do not, with a moderate timeline that
 is anticipated to be slightly longer than the process in SECCON 5.
 
 | Feature Set                                                 | Feature                                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
