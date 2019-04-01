@@ -1,6 +1,4 @@
-The behaviors recommended in SECCON 5 are specifically chosen to minimize impact
-to users, applications, and the IT organization, while enforcing a reasonable
-level of security.
+The behaviors recommended in SECCON 5 enforce a reasonable security level while minimizing the impact to users or to applications.
 
 | Feature | Config            | Description |
 |---------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
