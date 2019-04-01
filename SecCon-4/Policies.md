@@ -1,5 +1,5 @@
 The policies enforced in SECCON 4 implement more sophisticated security
-configurations and controls. While they may have a slightly higher impact to
+configurations and controls than SECCON 5. While they may have a slightly higher impact to
 users or to applications, they enforce a level of security more commensurate
 with the risks facing users with access to sensitive information. Microsoft
 recommends using the rings methodology for these security configurations and
