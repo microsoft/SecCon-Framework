@@ -1,4 +1,7 @@
 
+# Get Started
+[Learn about the security configuration framework](windows-security-configuration-framework.md). We welcome your feedback and contributions. 
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
